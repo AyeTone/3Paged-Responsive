@@ -87,6 +87,108 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   32
+   33
+   34
+   35
+   36
+   37
+   38
+   39
+   40
+   41
+   42
+   43
+   44
+   45
+   46
+   47
+   48
+   49
+   50
+   /* ==========================================================================
+      Author's custom styles
+      ========================================================================== */
+   /* General Styles */
+    
+html {
+  font-size: 16px; 
+}
+    
+body {
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 1em;
+}
+    
+ul, 
+ol {
+  list-style-type: none;
+}
+    
+a {
+  color: #e2e3ed;
+  text-decoration: none;   
+}
+    
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.875em;
+}
+    
+h3, 
+h4 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.125em;
+}
+    
+p {
+  font-size: .875em;
+  line-height: 1.285;
+}
+    
+img {
+    
+}
+    
+figure {
+    
+}
+    
+address {
+    
+}
+
 .content-wrapper {
   width: 90%;
   margin: 50px 0;
