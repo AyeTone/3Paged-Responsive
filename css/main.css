@@ -327,6 +327,11 @@ input[type=button] {
   flex-flow: row wrap;
 }
 
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 .features p {
   text-align: center;
   margin: 0;
@@ -790,7 +795,7 @@ input[type=button] {
   .contact-content h4 {
     font-size: 1.875em;
   }
-  
+
   /* ==========================================================================
   FAQ Page
   ========================================================================== */
